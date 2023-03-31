@@ -1,32 +1,45 @@
-# :wave: Hello World!
-*My name is Yan Mendes, i'm front-end developer since 2019.*
+<h1 align="center">Yan Mendes</h1>
 
-*I'm passionate for new front-end technologies, architectures, name conventions and other crazy things.* :stuck_out_tongue_winking_eye:
+<p align="center">👨🏻‍💻 Fullstack JavaScript Developer | 🌎 Paraná, Brazil</p>
 
-*Furthermore i have some skills with UI design tools like Figma and Adobe XD, by the way i came from design.*
-***
+<p align="center">
+  <a href="https://www.linkedin.com/in/yan-mendes-47903619b/"><img src="https://img.shields.io/badge/-Yan%20Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanmendes/"/></a>
+  <a href="https://github.com/xnayan00"><img src="https://img.shields.io/badge/-yanmendes-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yanmendes"/></a>
+  <a href="mailto:mendesyan03@gmail.com">
+    <img src="https://img.shields.io/badge/-E--mail-0a66c2?style=flat-square&logo=Mail.Ru&logoColor=white" alt="E-mail">
+  </a>
+</p>
 
-### :computer: My front-end Stack
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Hi there 👋
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+I'm Yan Mendes, a Fullstack JavaScript Developer from Recife, Brazil. I have experience with JavaScript, Vue.js, Node.js and more.
 
-### :fountain_pen: Design tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnayan00&show_icons=true&theme=tokyonight&hide_border=true)
+### 🚀 Skills
+
+- 💻 JavaScript, HTML, CSS, Vue.js, Node.js and more
+- 🎨 UI/UX Design
+- 🗣️ Fluent in Portuguese and English
+
+### 📈 Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmendes&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmendes&layout=compact&theme=dark" />
+</p>
+
+### 🌟 Portfolio
+
+- [Síntese](https://github.com/xnayan00/sintese.git)
+- [Landing Page](https://github.com/xnayan00/soundtrack-landing-page)
+- [Front Studio](https://frontstudio.com.br/)
+
+### 📫 Contact Me
+
+You can reach me at the following:
+
+- Email: mendesyan03@gmail.com
+- Whatsapp: [whatsapp.com/yanmendes](https://api.whatsapp.com/send?phone=5541991379276)
+- LinkedIn: [linkedin.com/in/yanmendes](https://www.linkedin.com/in/yan-mendes-47903619b)
+- Github: [github.com/xnayan00](https://github.com/xnayan00)
+
+Feel free to contact me via any of these channels. I'm always open to new opportunities and interesting projects!
