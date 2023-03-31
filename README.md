@@ -23,8 +23,8 @@ I'm Yan Mendes, a Fullstack JavaScript Developer from Recife, Brazil. I have exp
 ### 📈 Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmendes&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmendes&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xnayan00&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnayan00&layout=compact&theme=dark" />
 </p>
 
 ### 🌟 Portfolio
