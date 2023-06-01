@@ -12,7 +12,7 @@
 
 ### Hi there 👋
 
-I'm Yan Mendes, a Fullstack JavaScript Developer from Recife, Brazil. I have experience with JavaScript, Vue.js, Node.js and more.
+I'm Yan Mendes, a Fullstack JavaScript Developer from Paraná, Brazil. I have experience with JavaScript, Vue.js, Node.js and more.
 
 ### 🚀 Skills
 
