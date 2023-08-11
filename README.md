@@ -1,46 +1,33 @@
-<h1 align="center">Yan Mendes</h1>
+# Olá! 👋 Eu sou o Yan
 
-<p align="center">👨🏻‍💻 Fullstack JavaScript Developer | 🌎 Paraná, Brazil</p>
+Bem-vindo ao meu GitHub! 🚀
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yan-mendes-47903619b/"><img src="https://img.shields.io/badge/-Yan%20Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanmendes/"/></a>
-  <a href="https://github.com/xnayan00"><img src="https://img.shields.io/badge/-yanmendes-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yanmendes"/></a>
-  <a href="mailto:mendesyan03@gmail.com">
-    <img src="https://img.shields.io/badge/-E--mail-0a66c2?style=flat-square&logo=Mail.Ru&logoColor=white" alt="E-mail">
-  </a>
-</p>
+Sou um entusiasta do Frontend com uma paixão pela criação de interfaces envolventes e experiências excepcionais para os usuários. 💻✨
 
-### Hi there 👋
+## Habilidades e Tecnologias
 
-I'm Yan Mendes, a Fullstack JavaScript Developer from Paraná, Brazil. I have experience with JavaScript, Vue.js, Node.js and more.
+- HTML, CSS, JavaScript
+- Vue.js, React.js, Svelte.js
+- UI/UX Design
+- Responsividade
+- Ferramentas: Figma, Photoshop, Illustrator
 
-### 🚀 Skills
+## Portfólio
 
-- 💻 JavaScript, HTML, CSS, Vue.js, Node.js and more
-- 🎨 UI/UX Design
-- 🗣️ Fluent in Portuguese and English
-
-### 📈 Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xnayan00&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnayan00&layout=compact&theme=dark" />
-</p>
-
-### 🌟 Portfolio
+Aqui estão alguns dos meus projetos mais recentes e representativos:
 
 - [Síntese](https://github.com/xnayan00/sintese.git)
 - [Landing Page](https://github.com/xnayan00/soundtrack-landing-page)
 - [Front Studio](https://frontstudio.com.br/)
 - [Ihmmo](https://ihmmo.com.br/)
 
-### 📫 Contact Me
+## Contato
 
-You can reach me at the following:
+📧 Email: yan_mendes.18@outlook.com
+💼 LinkedIn: [linkedin.com/in/yan-mendes-47903619b](https://www.linkedin.com/in/yan-mendes-47903619b)
 
-- Email: mendesyan03@gmail.com
-- Whatsapp: [whatsapp.com/yanmendes](https://api.whatsapp.com/send?phone=5541991379276)
-- LinkedIn: [linkedin.com/in/yanmendes](https://www.linkedin.com/in/yan-mendes-47903619b)
-- Github: [github.com/xnayan00](https://github.com/xnayan00)
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=xnayan00&show_icons=true&theme=radical)](https://github.com/xnayan00)
 
-Feel free to contact me via any of these channels. I'm always open to new opportunities and interesting projects!
+Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades de Frontend. Vamos colaborar e criar algo incrível juntos! 🌟
+
+_"Weniger, aber besser."_ - Dieter Rams
