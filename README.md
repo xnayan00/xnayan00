@@ -1,76 +1,63 @@
 <div align="center">
-  <h1>👋 Hey, I'm Yan Mendes - Frontend Developer</h1>
-  <p>I'm a passionate Frontend Developer who loves creating beautiful and user-friendly interfaces. 👨‍💻</p>
-  <p>🌟 Feel free to explore my projects, and don't forget to give them a ⭐ if you find them interesting!</p>
-  
-  📧 **Email**: [mendesyan03@gmail.com](mailto:mendesyan03@gmail.com)
 
-  🌐 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/yan-mendes-47903619b)
+# 👋 Olá, eu sou Yan Mendes
 
-  📱 **Phone**: +55 (41) 99137-9276
+###  Programador Frontend
+
 </div>
 
-> "Weniger, aber besser." - Dieter Rams
+<br />
 
-## 🚀 Frontend Skills
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" style="height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" style="height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" title="SASS" style="height: 48px;" />
+  <img src="https://blog.knoldus.com/wp-content/uploads/2022/03/cypress.png" alt="Cypress" title="Cypress" style="height: 48px;" />
+  <br />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="Vue.js" title="Vue.js" style="height: 48px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="Nuxt.js" title="Nuxt.js" style="height: 48px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" alt="Pinia" title="Pinia" style="height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/storybook.png" alt="Storybook" title="Storybook" style="height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" style="height: 48px;" />
+</p>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![Quasar Framework](https://img.shields.io/badge/Quasar-1976D2?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br />
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Vuex](https://img.shields.io/badge/Vuex-34495E?style=flat-square)
-![Pinia](https://img.shields.io/badge/Pinia-2C3E50?style=flat-square)
-![Astro.js](https://img.shields.io/badge/Astro-000000?style=flat-square)
-![Svelte.js](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<div align="center">
+  <h3>Melhores Projetos</h3>
+</div>
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square)
-![Axios](https://img.shields.io/badge/Axios-0097E6?style=flat-square)
+<br />
 
-## 📚 Architectures & Patterns
+<div align="center">
+   <img height="130" src="https://media.licdn.com/dms/image/D4D2DAQHW-dpLjFlN0g/profile-treasury-image-shrink_800_800/0/1694202929728?e=1709344800&v=beta&t=wJjzJCM16QL84LU9yAhJOznMNA3jk4P6yP3WMCtwgs4">
+  <img height="130" src="https://user-images.githubusercontent.com/60933048/219152508-13b91c25-5333-4946-8ce5-0efea1c9e483.png" >
+  <img height="130" src="https://user-images.githubusercontent.com/60928171/146382480-c684741b-3694-4886-8a29-e7d69d3afbc5.png" >  
+</div>
 
-![BEMCSS](https://img.shields.io/badge/BEMCSS-357D34?style=flat-square)
-![SMACSS](https://img.shields.io/badge/SMACSS-2F3539?style=flat-square)
-![Namespaces CSS](https://img.shields.io/badge/Namespaces_CSS-9B59B6?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-F1C40F?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-2E86C1?style=flat-square)
-![Atomic Design](https://img.shields.io/badge/Atomic_Design-FF3838?style=flat-square)
-![Component Driven Pattern](https://img.shields.io/badge/Component_Driven-FFDD67?style=flat-square)
+<div align="center">
 
-## 🎨 Tools & Design
+### Fale comigo 📬
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-00A0D8?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Blender 3D](https://img.shields.io/badge/Blender-232F3E?style=flat-square)
+<a href="https://www.linkedin.com/in/seu-linkedin">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" style="height: 48px;" />
+</a>
+<a href="mailto:seuemail@example.com">
+  <img src="https://img.icons8.com/color/48/000000/email.png" alt="E-mail" title="E-mail" style="height: 48px;" />
+</a>
+<a href="https://wa.me/5541991379276" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" title="WhatsApp" style="height: 48px;" />
+</a>
 
-## 🏰 Backend & Framework
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
-![Bun](https://img.shields.io/badge/Bun-69FFD1?style=flat-square)
-![Elysia](https://img.shields.io/badge/Elysia-4D26A7?style=flat-square)
+<br />
+<br />
+<hr />
 
-## 🌟 GitHub Stats
+<div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xnayan00&show_icons=true&theme=radical)
+> Weniger, aber besser - Dieter Rams
 
-## 📬 Let's Connect
-
-I'm always open to collaboration and interesting discussions. Feel free to reach out to me:
-
-🚀 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yan-mendes-47903619b)
-
-🚀 **Email**: [mendesyan03@gmail.com](mailto:mendesyan03@gmail.com)
-
-📱 **Phone**: +55 (41) 99137-9276
+</div>
