@@ -31,7 +31,6 @@
 <br />
 
 <div align="center">
-   <img height="130" src="https://media.licdn.com/dms/image/D4D2DAQHW-dpLjFlN0g/profile-treasury-image-shrink_800_800/0/1694202929728?e=1709344800&v=beta&t=wJjzJCM16QL84LU9yAhJOznMNA3jk4P6yP3WMCtwgs4">
   <img height="130" src="https://user-images.githubusercontent.com/60933048/219152508-13b91c25-5333-4946-8ce5-0efea1c9e483.png" >
   <img height="130" src="https://user-images.githubusercontent.com/60928171/146382480-c684741b-3694-4886-8a29-e7d69d3afbc5.png" >  
 </div>
